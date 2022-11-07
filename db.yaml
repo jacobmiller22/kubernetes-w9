@@ -25,5 +25,5 @@ spec:
     app: voting-app
     component: db
   ports:
-    - port: 5432
-      name: db-port
+    - name: db-port
+      port: 5432
