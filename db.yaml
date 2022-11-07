@@ -26,3 +26,4 @@ spec:
     component: db
   ports:
     - port: 5432
+      name: db-port
